@@ -27,6 +27,8 @@ console.log(studente)
 
 let classe = presenze += ',Giulia'
 console.log(classe)
+let width_ = presenze.length
+console.log(width_)
 
 // Punto 5: Funzione con numeri di un array
 
